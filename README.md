@@ -1,6 +1,7 @@
 # 🔐 Password Guard
 
 A modern cybersecurity-focused password strength analyzer and secure password generator built with HTML, CSS, and JavaScript.
+![Password Guard Dashboard](password-guard-dashboard.png.png)
 
 ## 🚀 Features
 
